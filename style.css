@@ -36,11 +36,18 @@ h2 {
   height: 580px;
   width: 100%;
   /* Agrega tu código aquí */
+  position: absolute;
 }
+
 
 
 
 #flappy-bird {
   position: absolute;
   /* Agrega tu código aquí */
+  left: 50px;
+
+  bottom: 50px;
+ 
 }
+
